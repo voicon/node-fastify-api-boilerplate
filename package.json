@@ -23,7 +23,7 @@
     "fastify-jwt": "^1.2.0",
     "lodash": "^4.17.15",
     "mongoose": "^5.7.9",
-    "nconf": "^0.10.0",
+    "nconf": "^0.11.4",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.8",
     "url-join": "^4.0.1",
